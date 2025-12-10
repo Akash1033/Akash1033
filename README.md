@@ -5,13 +5,10 @@
 
 🚀 I enjoy building real-world projects.
 
-📈 I focus on improving my development skills every day.
-
 🔧 I work with JavaScript, React, Node.js, Express, and MongoDB.
 
 🎯 My goal is to become a strong industry-ready developer.
 
-🧠 I love learning new technologies and exploring new ideas.
 
 
 ## 🌐 Socials:
